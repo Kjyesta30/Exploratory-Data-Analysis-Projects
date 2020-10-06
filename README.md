@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-on-viral-diseases
+# Exploratory-Data-Analysis-Projects
